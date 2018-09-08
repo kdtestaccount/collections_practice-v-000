@@ -25,8 +25,6 @@ end
 
 def kesha_maker(array)
   array.each do |x|
-    x[2]) << !
-    
-    myString[10]= "Ruby"
+    x[2]) = !
   end
 end
