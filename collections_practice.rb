@@ -37,7 +37,7 @@ def find_a(array)
      final_array << x
     end
   final_array
-end
+  end
 end
 
 def sum_array(array)
