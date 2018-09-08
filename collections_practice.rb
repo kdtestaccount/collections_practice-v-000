@@ -25,6 +25,8 @@ end
 
 def kesha_maker(array)
   array.each do |x|
-    x.split() << !
+    x[2]) << !
+    
+    myString[10]= "Ruby"
   end
 end
