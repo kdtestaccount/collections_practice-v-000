@@ -11,12 +11,10 @@ def sort_array_char_count(array)
 end 
 
 def swap_elements(array)
-  if array.length > 3
   array2 = array[1].
   array3 = array[2]
   array[1] = array2
   array[2] = array3
-  end
   array
 end
 
