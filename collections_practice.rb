@@ -43,7 +43,10 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.inject(0){|sum,x| sum + x }
+  array.each do |x|
+    x << s
+  end
+end
 end
 
 
