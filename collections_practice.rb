@@ -28,5 +28,6 @@ def kesha_maker(array)
    code
 end
 
-  array.each do {|x| x.length}
+  array.each do |x|
+    x << !
 end
