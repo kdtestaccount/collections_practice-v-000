@@ -24,10 +24,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  collection.each do |variable|
-   code
-end
-
   array.each do |x|
     x << !
+  end
 end
